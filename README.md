@@ -1,5 +1,6 @@
 # README
-CIS2430 (Object Oriented Programming) Assignment 1
+CIS2430 (Object-Oriented Programming)
+Assignment 2
 
 ## Author Information
 * Name: Rabia Qureshi
