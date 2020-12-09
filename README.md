@@ -1,5 +1,6 @@
-# CIS2430*S20 (Object-Oriented Programming)
-Assignment 2
+# README
+CIS2430*S20 (Object-Oriented Programming)
+Assignment 1
 
 ## Author Information
 * Name: Rabia Qureshi
