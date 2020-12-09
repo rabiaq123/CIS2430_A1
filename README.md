@@ -1,7 +1,4 @@
-# README.md
-
-CIS2430*S20
-Assignment 1
+##CIS2430*S20 - Assignment 1
 
 ## Author Information
 * Name: Rabia Qureshi
